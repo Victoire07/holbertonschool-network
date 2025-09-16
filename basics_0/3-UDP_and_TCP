@@ -1,0 +1,17 @@
+A. Quelle affirmation est correcte pour la boîte TCP ?
+
+CHOIX --> 1
+C’est un protocole qui transfère les données de manière lente mais sûre.
+
+
+B. Quelle affirmation est correcte pour la boîte UDP ?
+
+CHOIX --> 2
+C’est un protocole qui transfère les données rapidement mais
+qui peut perdre des données en cours de route.
+
+
+C. Quelle affirmation est correcte pour le "travailleur" TCP ?
+
+CHOIX --> 1
+« As-tu bien reçu les boîtes x, y, z ? »
