@@ -1,5 +1,4 @@
 #usr/bin/env bash
-# Script Bash qui affiche les ports en écoute : Uniquement les ports TCP et UDP en écoute avec PID et nom du programme
-
-netstat -tulnp
+# Affiche les ports en écoute : que les ports TCP et UDP en écoute avec PID et nom du programme
+netstat -l -p
 
