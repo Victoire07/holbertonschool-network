@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Script qui modifie le fichier /etc/hosts pour changer la résolution de localhost et facebook.com
+
+# Sauvegarde du fichier hosts original
+cp /etc/hosts /etc/hosts.bak
+
+# Écriture des nouvelles règles
+echo "127.0.0.2   localhost" > /etc/hosts
+echo "8.8.8.8     facebook.com" >> /etc/hosts
